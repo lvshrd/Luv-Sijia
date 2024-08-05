@@ -13,23 +13,23 @@
 ##  特别回忆📸
 
 ### 我们的牵手
-<img src="photos/hand_in_hand.jpg" alt="牵手" width="500"/>
+<img src="photos/hand_in_hand.JPG" alt="牵手" width="500"/>
 *这一刻，我知道我的世界因为有你而变得完整。*
 
 ### 收到过最好的offer
-古灵精怪的你曾给我写过一封邮件，调皮地说着祝贺的话语，授予了我最佳男友的职位。邮件的内容放在[这里](Messages/My_Best_Offer_in_life.pdf)，每次读到都忍不住笑起来。
-<img src="photos/selfie_kiss.png" alt="我的收藏" width="500"/>
+古灵精怪的你曾给我写过一封邮件，调皮地说着祝贺的话语，授予了我最佳男友的职位。邮件的内容放在[这里](messages/My_Best_Offer_in_life.pdf)，每次读到都忍不住笑起来。
+<img src="photos/selfie_kiss.PNG" alt="我的收藏" width="500"/>
 
 
 ### 日常的镜头
 很难想象，这一次的开始是靠女生的主动来推动的。我是个慢热又胆怯的人，害怕失败更害怕失去。但是我想，既然我们两颗子弹真的碰撞在一起，我将永远也不会放手。
-<img src="messages/gaobai.png" alt="告白时刻" width="500"/>
-<img src="messages/Miss.png" alt="好想好想" width="500"/>
+<img src="messages/gaobai.PNG" alt="告白时刻" width="500"/>
+<img src="messages/Miss.PNG" alt="好想好想" width="500"/>
 
 ## 未来展望
 
 虽然现在我们身处两地，但我相信，我们的心始终紧紧相连。未来的日子里，我们会一起经历更多的风雨和阳光，写下更多的美好回忆。这个仓库会随着我们的故事不断更新，我会用它记录我们的每一个特别时刻。
-<img src="photos/note.png" alt="我的笔记" width="500"/>
+<img src="photos/note.PNG" alt="我的笔记" width="500"/>
 
 ##  结语💌
 
