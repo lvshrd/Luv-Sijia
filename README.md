@@ -1,5 +1,18 @@
 # 🌹 To My Dearest Sijia 🌹
 
+##  2024/9/10 Update
+过去这5天4夜是我在新加坡最快乐的时光，也是我们之间最最珍贵的回忆之一。在机场看到嘴角下翻，泪眼婆娑的你，我也不禁潸然，心想着你赶快走吧，别让你看到我也流泪啦哈哈哈。接下来我的生活回归平常，你也回到家开始上学倒计时。不过没什么大不了的宝宝，不久我们还能见面，期待下一次的相处时光。我想,内心相向的两个人应该很难走散! Again,但愿我和你是一支唱不完的歌。
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+        <img src="memories_SG/Preview/DSC_0931.JPG" alt="背影" style="width: 100%; max-width: 500px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);"/>
+        <p style="text-align: center; font-style: italic;">Our Backview at Fort Canning Park</p>
+    </div>
+    <div style="margin: 10px;">
+        <img src="memories_SG/Preview/DSC_1006.JPG" alt="自拍" style="width: 100%; max-width: 500px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);"/>
+        <p style="text-align: center; font-style: italic;">Selfie in Palawan Beach of Sentosa</p>
+    </div>
+</div>
+
 ##  引言💖
 
 亲爱的斯佳，
